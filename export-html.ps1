@@ -1,0 +1,1 @@
+..\..\pico8.exe -x lib\_exporthtml.p8
